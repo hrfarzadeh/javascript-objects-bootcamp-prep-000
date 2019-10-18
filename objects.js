@@ -6,4 +6,8 @@ var playlist={adel:"skyfall"};
     return Object
   };
   updatePlaylist(playlist, Slowdive, Alison)
+  
+ function removeFromPlaylist(Object, artistName){
+   
+ }
 
